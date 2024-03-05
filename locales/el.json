@@ -13,11 +13,11 @@
     "social": {
       "alt_text": {
         "share_on_facebook": "Κοινοποίηση στο Facebook",
-        "share_on_twitter": "Tweet στο Twitter",
+        "share_on_twitter": "Κοινοποίηση στο X",
         "share_on_pinterest": "Καρφίτσωμα στο Pinterest"
       },
       "links": {
-        "twitter": "Twitter",
+        "twitter": "X (Twitter)",
         "facebook": "Facebook",
         "pinterest": "Pinterest",
         "instagram": "Instagram",
@@ -358,7 +358,8 @@
       "total_items": "Σύνολο προϊόντων",
       "remove_all_items_confirmation": "Να καταργηθούν και τα {{ quantity }} προϊόντα από το καλάθι σας;",
       "remove_all": "Κατάργηση όλων",
-      "cancel": "Ακύρωση"
+      "cancel": "Ακύρωση",
+      "remove_all_single_item_confirmation": "Να καταργηθεί 1 προϊόν από το καλάθι σας;"
     }
   },
   "localization": {

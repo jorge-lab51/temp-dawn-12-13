@@ -13,11 +13,11 @@
     "social": {
       "alt_text": {
         "share_on_facebook": "Podijeli na Facebooku",
-        "share_on_twitter": "Tweetaj na Twitteru",
+        "share_on_twitter": "Podijeli na mreži X",
         "share_on_pinterest": "Prikvači na Pinterest"
       },
       "links": {
-        "twitter": "Twitter",
+        "twitter": "X (Twitter)",
         "facebook": "Facebook",
         "pinterest": "Pinterest",
         "instagram": "Instagram",
@@ -370,7 +370,8 @@
       "total_items": "Ukupni broj artikala",
       "remove_all_items_confirmation": "Želite li ukloniti sve artikle ({{ quantity }}) iz svoje košarice?",
       "remove_all": "Ukloni sve",
-      "cancel": "Odustani"
+      "cancel": "Odustani",
+      "remove_all_single_item_confirmation": "Želite li ukloniti 1 artikl iz košarice?"
     }
   },
   "localization": {

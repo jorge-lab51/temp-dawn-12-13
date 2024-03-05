@@ -56,8 +56,8 @@
       "name": "Sociální sítě",
       "settings": {
         "social_twitter_link": {
-          "label": "Twitter",
-          "info": "https://twitter.com/shopify"
+          "label": "X/Twitter",
+          "info": "https://x.com/shopify"
         },
         "social_facebook_link": {
           "label": "Facebook",
@@ -1650,7 +1650,7 @@
             },
             "swatch_shape": {
               "label": "Vzorník",
-              "info": "Zjistit, jak zobrazit [vzorníky](https://help.shopify.com/en/manual/online-store/themes/theme-structure/theme-settings#options-with-swatches)",
+              "info": "Zapněte [vzorníky](https://help.shopify.com/en/manual/online-store/themes/theme-structure/theme-settings#options-with-swatches) u možností produktů.",
               "options__1": {
                 "label": "Kruh"
               },
@@ -2505,7 +2505,7 @@
             },
             "swatch_shape": {
               "label": "Vzorník",
-              "info": "Zjistit, jak zobrazit [vzorníky](https://help.shopify.com/en/manual/online-store/themes/theme-structure/theme-settings#options-with-swatches)",
+              "info": "Zapněte [vzorníky](https://help.shopify.com/en/manual/online-store/themes/theme-structure/theme-settings#options-with-swatches) u možností produktů.",
               "options__1": {
                 "label": "Kruh"
               },

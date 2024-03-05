@@ -13,11 +13,11 @@
     "social": {
       "alt_text": {
         "share_on_facebook": "Udostępnij na Facebooku",
-        "share_on_twitter": "Tweetuj na Twitterze",
+        "share_on_twitter": "Udostępnij na platformie X",
         "share_on_pinterest": "Przypnij do tablicy Pinterest"
       },
       "links": {
-        "twitter": "Twitter",
+        "twitter": "X (Twitter)",
         "facebook": "Facebook",
         "pinterest": "Pinterest",
         "instagram": "Instagram",
@@ -382,7 +382,8 @@
       "total_items": "Pozycje łącznie",
       "remove_all_items_confirmation": "Usunąć wszystkie {{ quantity }} pozycje(-i) z koszyka?",
       "remove_all": "Usuń wszystko",
-      "cancel": "Anuluj"
+      "cancel": "Anuluj",
+      "remove_all_single_item_confirmation": "Czy usunąć 1 pozycję z Twojego koszyka?"
     }
   },
   "localization": {

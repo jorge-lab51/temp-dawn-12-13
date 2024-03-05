@@ -13,11 +13,11 @@
     "social": {
       "alt_text": {
         "share_on_facebook": "Chia sẻ trên Facebook",
-        "share_on_twitter": "Tweet trên Twitter",
+        "share_on_twitter": "Chia sẻ trên X",
         "share_on_pinterest": "Ghim trên Pinterest"
       },
       "links": {
-        "twitter": "Twitter",
+        "twitter": "X (Twitter)",
         "facebook": "Facebook",
         "pinterest": "Pinterest",
         "instagram": "Instagram",
@@ -358,7 +358,8 @@
       "total_items": "Tổng số mặt hàng",
       "remove_all_items_confirmation": "Xóa tất cả {{ quantity }} mặt hàng khỏi giỏ hàng của bạn?",
       "remove_all": "Xóa tất cả",
-      "cancel": "Hủy"
+      "cancel": "Hủy",
+      "remove_all_single_item_confirmation": "Xóa 1 mặt hàng khỏi giỏ hàng?"
     }
   },
   "localization": {
